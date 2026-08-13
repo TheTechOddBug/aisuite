@@ -136,4 +136,4 @@ See [`examples/mcp_tools_example.ipynb`](../examples/mcp_tools_example.ipynb) fo
 ## Going further
 
 - Want a ready-made desktop AI coworker instead of building your own? See the [OpenWorker quickstart](openworker-quickstart.md).
-- OpenWorker's source under [`platform/`](../platform/) is a working reference for building a full agent harness with aisuite.
+- A historical OpenWorker snapshot is preserved in [`openworker-archive/`](../openworker-archive/README.md) as a reference for building a full agent harness with aisuite. Active OpenWorker development lives in the [OpenWorker repository](https://github.com/andrewyng/openworker).

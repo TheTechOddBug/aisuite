@@ -45,4 +45,4 @@ Your API keys, your conversations, and your files stay on your machine. OpenWork
 
 ## For developers
 
-OpenWorker's source lives in this repository under [`platform/`](../platform/). It is built using aisuite (see the [Agents quickstart](agents-quickstart.md)) — a working reference for building your own agent harness.
+OpenWorker is developed in the [OpenWorker repository](https://github.com/andrewyng/openworker). A historical source snapshot is preserved under [`openworker-archive/`](../openworker-archive/README.md) as a reference for building an agent harness with aisuite (see the [Agents quickstart](agents-quickstart.md)).
